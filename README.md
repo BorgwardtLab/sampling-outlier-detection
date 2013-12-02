@@ -25,7 +25,7 @@ Usage
 -----
 
 Given a multivariate dataset, it computes outlierness scores for all data point.
-To use it, yype:
+To use it, type:
 
 	$ make   
 	$ ./qsp -i <input_file> -o <output_file> -s <samplesize>
