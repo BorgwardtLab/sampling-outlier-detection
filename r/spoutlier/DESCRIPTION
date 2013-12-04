@@ -1,0 +1,9 @@
+Package: spoutlier
+Type: Package
+Title: Rapid outlier detection via sampling
+Version: 1.0
+Date: 2013-12-03
+Author: Mahito Sugiyama
+Maintainer: Mahito Sugiyama <mahito.sugiyama@tuebingen.mpg.de>
+Description: Rapid computation of distance-based outlierness scores via sampling
+License: GPL (>= 2)

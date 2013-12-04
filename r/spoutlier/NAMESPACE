@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+export(qsp)
+export(normalize)
+export(synth)
+useDynLib("spoutlier")
