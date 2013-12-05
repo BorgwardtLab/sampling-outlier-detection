@@ -48,5 +48,5 @@ Contact
 -------
 
 * Author: Mahito Sugiyama
-* Affiliation: Machine Learning & Computational Biology Research Group, MPIs Tübingen, Germany
+* Affiliation: Machine Learning & Computational Biology Research Group, Max Planck Instituets Tübingen, Germany
 * Mail: mahito.sugiyama@tuebingen.mpg.de

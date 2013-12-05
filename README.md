@@ -12,7 +12,7 @@ This algorithm has the following advantages:
 
 * **Scalable**; the time complexity is linear in the number of data points,
 * **Effective**; it is empirically shown to be the most effective on average among existing distance-based outlier detection methods, and
-* **Easy to use**; you only need to input the number of samples, and small sample size (default value is 20) is shown to be a good choice.
+* **Easy to use**; it requires only one parameter, the number of samples, and small sample size (default value is 20) is shown to be a good choice.
 
 Please see the following paper for detailed information and refer it in your published research:
 
@@ -21,12 +21,12 @@ Please see the following paper for detailed information and refer it in your pub
   [PDF](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips26/296.pdf) [Supplemental](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips26/296.zip)
 
 
-A C implementation is available.
+An R package and a C implementation are available.
 
 
 Contact
 -------
 
 * Author: Mahito Sugiyama
-* Affiliation: Machine Learning & Computational Biology Research Group, MPIs Tübingen, Germany
+* Affiliation: Machine Learning & Computational Biology Research Group, Max Planck Instituets Tübingen, Germany
 * Mail: mahito.sugiyama@tuebingen.mpg.de
