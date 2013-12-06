@@ -17,7 +17,7 @@ This algorithm has the following advantages:
 Please see the following paper for detailed information and refer it in your published research:
 
 * Sugiyama, M., Borgwardt, K. M.: **Rapid Distance-Based Outlier Detection via Sampling**,
-  *Advances in Neural Information Processing Systems (NIPS 2013)*, 2013.
+    *Advances in Neural Information Processing Systems (NIPS 2013)*, 467-475, 2013.
   [PDF](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips26/296.pdf) [Supplemental](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips26/296.zip)
 
 
