@@ -58,7 +58,7 @@ void qsp(double *X, long n, long d, long n_sample, long seed, double *score) {
 // random sampling
 // if seed = 0, seed is randomely set
 void sampling(long n_sample, long min, long max, long seed, long *id_sample) {
-  long i;
+  long i, j = 0;
   time_t t;
 
   if (seed == 0)
@@ -66,7 +66,7 @@ void sampling(long n_sample, long min, long max, long seed, long *id_sample) {
 
   for (i = 0; i < n_sample; i++) {
     do {
-      srand(seed + i);
+      srand(seed + j++);
       id_sample[i] = min + rand() % (max - min + 1);
     } while (checkArray(id_sample[i], i, id_sample) == 1);
   }
